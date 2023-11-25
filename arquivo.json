@@ -1,0 +1,14 @@
+{
+    "general": {
+        "server_url": "https:\/\/demo.getodk.org",
+        "constraint_behavior": "on_finalize"
+    },
+    "admin": {
+        "edit_saved": false
+    },
+    "project": {
+        "name": "QR code project",
+        "icon": "Q",
+        "color": "#ff0000"
+    }
+}
