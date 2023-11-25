@@ -22,4 +22,8 @@ file_put_contents('arquivo.json', $json_data);
 
 echo $json_data;
 
+$output = "./qr.png";
+
+exec("python geraqrcode.py", $output);
+
 ?>
